@@ -24,7 +24,7 @@ The data model includes the following components:![model view for krakken koffee
 
 ---
 
-## Executive Summary [Video link](https://drive.google.com/file/d/1KM0tTA7g0boTk0ESdGyvZUlOyHH8d2jw/view?usp=sharing)
+## Executive Summary [video]https://drive.google.com/file/d/1KM0tTA7g0boTk0ESdGyvZUlOyHH8d2jw/view?usp=sharing
 
 As of mid-2023, Krakken Koffee has generated total sales of **$698,812** from **149,116** transactions, resulting in an average order size of **$4.69**. The average order sizes across our three new Florida stores are:
 - **Orlando**: $4.81

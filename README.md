@@ -13,7 +13,7 @@
 
 Welcome to the sales review for Krakken Koffee's New Florida Sales Region. This project aims to analyze the performance of our team across three flagship stores: Orlando, Miami, and Tampa. We will explore various strategic areas, identify opportunities for improvement, and forecast sales for the second half of 2023.
 
-The data model includes the following components:![model view for krakken koffee](https://github.com/user-attachments/assets/926ea782-f565-44fa-aa01-df6b30a9a1f6)
+The data model includes the following components:  ![model view for krakken koffee](https://github.com/user-attachments/assets/926ea782-f565-44fa-aa01-df6b30a9a1f6)
 
 - **Sales Fact Table**: `Krakken_Koffee_Sales`
 - **Dimension Tables**: 
